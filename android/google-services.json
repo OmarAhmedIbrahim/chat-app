@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "908638736280",
+    "project_id": "scholar-chat-bee97",
+    "storage_bucket": "scholar-chat-bee97.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908638736280:android:1d6777cc5130ce861765ed",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWXtYtEKRVcwjEiv-X5wJXkGX9sjpT7L8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
